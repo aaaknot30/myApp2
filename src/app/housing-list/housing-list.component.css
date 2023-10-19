@@ -1,0 +1,27 @@
+input, 
+button {
+  border: solid 1px #556;
+  border-radius: 1rem;
+  display: inline-block;
+  height: 2rem;
+}
+
+input {
+  margin: 0 5px 0 2px;
+  width: 400px;
+  padding-left: 1rem;
+}
+
+button { 
+  height: 2rem;
+  width: 5rem;
+}
+
+p {
+  font-weight: 700;
+}
+
+.inner {
+  background-color: lightgoldenrodyellow;
+}
+
